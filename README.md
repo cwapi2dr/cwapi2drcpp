@@ -3,10 +3,15 @@
 [![Issues](https://img.shields.io/github/issues/cwapi2dr/cwapi2drcpp)](https://github.com/cwapi2dr/cwapi2drcpp/issues)
 [![Pulls](https://img.shields.io/github/issues-pr/cwapi2dr/cwapi2drcpp)](https://github.com/cwapi2dr/cwapi2drcpp/pulls)
 [![GitHub](https://img.shields.io/github/license/cwapi2dr/cwapi2drcpp)](https://choosealicense.com/licenses/mit/)
+[![Docs](https://img.shields.io/badge/docs-github.io-blue)](https://cwapi2dr.github.io/cwapi2drcpp/)
 
 This is the Cadwork 2DR CwAPI2DR plugin architecture in C++.
 
 > **Note:** This repository is a placeholder. The API is not available yet.
+
+## Documentation
+
+https://cwapi2dr.github.io/cwapi2drcpp/
 
 ## Installation
 
