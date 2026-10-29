@@ -4,3 +4,4 @@ cmake-*/
 docs/_build/
 docs/venv/
 doxyxml/
+/site
